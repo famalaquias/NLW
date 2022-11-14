@@ -7,7 +7,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[:link: Clique aqui para acessar](https://famalaquias.github.io/nlw-esports-explorer)
+[:link: Clique aqui para acessar](https://nlw-esports-explorer-ten.vercel.app/)
 
 ## :hammer_and_wrench: Tecnologias
 
